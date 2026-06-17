@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useCart } from "@/contexts/cart-context";
 import { Button } from "@/components/ui/button";
@@ -62,9 +63,11 @@ export default function CartSheet({ onClose }: CartSheetProps) {
                 key={item!.product.id}
                 className="flex gap-3 rounded-lg border p-3"
               >
-                <img
+                <Image
                   src={item!.product.image}
                   alt={item!.product.name}
+                  width={80}
+                  height={80}
                   className="h-20 w-20 rounded-md object-cover"
                 />
                 <div className="flex flex-1 flex-col justify-between">

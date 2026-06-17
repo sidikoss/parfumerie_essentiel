@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useCart } from "@/contexts/cart-context";
 import { Button } from "@/components/ui/button";
@@ -253,10 +254,11 @@ export default function OlfactiveQuiz() {
           </h3>
           <div className="mt-6 overflow-hidden rounded-xl border shadow-lg">
             <div className="relative aspect-[4/3] bg-muted">
-              <img
+              <Image
                 src={recommended.image}
                 alt={recommended.name}
-                className="h-full w-full object-cover"
+                fill
+                className="object-cover"
               />
             </div>
             <div className="p-5">

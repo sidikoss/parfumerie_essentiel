@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { Link } from "@/i18n/navigation";
 import { usePathname, useRouter } from "@/i18n/navigation";
 import { useLocale, useTranslations } from "next-intl";
@@ -196,9 +197,11 @@ export default function Navbar() {
                         }}
                         className="flex items-center gap-3 rounded-lg p-2 transition-colors hover:bg-muted"
                       >
-                        <img
+                        <Image
                           src={product.image}
                           alt={product.name}
+                          width={48}
+                          height={48}
                           className="h-12 w-12 rounded-md object-cover"
                         />
                         <div>

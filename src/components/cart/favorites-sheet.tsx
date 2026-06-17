@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslations } from "next-intl";
 import { useFavorites } from "@/contexts/favorites-context";
 import { useCart } from "@/contexts/cart-context";
@@ -41,9 +42,11 @@ export default function FavoritesSheet({ onClose }: FavoritesSheetProps) {
                 key={product!.id}
                 className="flex gap-3 rounded-lg border p-3"
               >
-                <img
+                <Image
                   src={product!.image}
                   alt={product!.name}
+                  width={64}
+                  height={64}
                   className="h-16 w-16 rounded-md object-cover"
                 />
                 <div className="flex flex-1 flex-col justify-center">
