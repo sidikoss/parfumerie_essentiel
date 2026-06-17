@@ -1,0 +1,26 @@
+{
+  "name": "L'Essentiel — Parfumerie & Création sur Mesure",
+  "short_name": "L'Essentiel",
+  "description": "Parfumerie de luxe à Rocourt (Liège). Parfums 100% authentiques CHANEL, DIOR, CREED et création de mélanges sur mesure.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#1a1a1a",
+  "orientation": "portrait-primary",
+  "lang": "fr-BE",
+  "categories": ["shopping", "lifestyle"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1594035910387-fea47794261f?w=1280&auto=format&fit=crop",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "L'Essentiel — Haute Parfumerie"
+    }
+  ]
+}

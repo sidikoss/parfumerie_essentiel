@@ -1,0 +1,193 @@
+{
+  "nav": {
+    "catalog": "Catalogue",
+    "blends": "Mélanges",
+    "services": "Services",
+    "promotions": "Promotions",
+    "reviews": "Avis",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "✨ Nouvelle collection printemps-été",
+    "title": "Haute Parfumerie & Création sur Mesure",
+    "subtitle": "✦ Parfums 100% Originaux ✦ Création de votre Mélange Unique ✦",
+    "tagline": "Exclusivement des fragrances authentiques",
+    "cta_selection": "Notre Sélection →",
+    "cta_blend": "Créer mon Parfum"
+  },
+  "features": {
+    "authentic": "100% Authentiques",
+    "authentic_desc": "Originaux certifiés",
+    "pickup": "Retrait Gratuit",
+    "pickup_desc": "En magasin à Rocourt",
+    "brands": "Grandes Marques",
+    "brands_desc": "CHANEL, DIOR, CREED…",
+    "custom": "Création Sur Mesure",
+    "custom_desc": "Votre mélange unique"
+  },
+  "catalog": {
+    "title": "Notre Sélection",
+    "subtitle": "Parfums 100% Authentiques — Tous nos produits sont des originaux certifiés",
+    "filters": {
+      "all": "Tous",
+      "homme": "Homme",
+      "femme": "Femme",
+      "niche": "Niche",
+      "coffrets": "Coffrets",
+      "price_max": "Prix max :",
+      "sort": {
+        "popularity": "Popularité",
+        "price_asc": "Prix croissant",
+        "price_desc": "Prix décroissant",
+        "name": "Nom A-Z"
+      }
+    },
+    "add_to_cart": "Ajouter au panier",
+    "view_detail": "Voir détail"
+  },
+  "blend": {
+    "title": "Votre Parfum Sur Mesure",
+    "subtitle": "Créez votre fragrance unique — choisissez vos notes, on s'occupe du reste",
+    "step1": "1. Choisissez votre famille olfactive",
+    "step2": "2. Choisissez l'intensité",
+    "step3": "3. Format et quantité",
+    "summary": "Récapitulatif",
+    "order_whatsapp": "Commander via WhatsApp",
+    "restart": "Recommencer",
+    "step_of": "Étape {current} sur {total}"
+  },
+  "quiz": {
+    "title": "Conseil Personnalisé",
+    "subtitle": "Trouvez votre parfum idéal en répondant à 3 questions",
+    "prev": "← Précédent",
+    "next": "Suivant →",
+    "retry": "Refaire",
+    "result": "Votre parfum recommandé"
+  },
+  "brands": {
+    "title": "Nos Marques"
+  },
+  "services": {
+    "title": "Notre Savoir-Faire",
+    "luxury": "Parfumerie de Luxe",
+    "luxury_desc": "Parfums de niche et de luxe 100% originaux. CHANEL, DIOR, CREED, Tom Ford et bien d'autres.",
+    "custom": "Création Sur Mesure",
+    "custom_desc": "Créez votre fragrance unique. Choisissez famille, intensité et format. Notre expert réalise votre mélange personnalisé.",
+    "advice": "Conseil Personnalisé",
+    "advice_desc": "Quiz olfactif, recommandation sur mesure. Trouvez le parfum qui vous ressemble.",
+    "delivery": "Retrait & Livraison",
+    "delivery_desc": "Retrait gratuit en magasin à Rocourt. Paiement sécurisé par carte ou espèces."
+  },
+  "about": {
+    "title": "L'Essentiel",
+    "subtitle": "Votre Parfumeur Créateur",
+    "tagline": "Parfumerie Authentique & Création sur Mesure",
+    "text1": "Nous sélectionnons avec soin les plus grandes maisons de parfumerie pour vous offrir des fragrances 100% authentiques.",
+    "text2": "Chez L'Essentiel, nous allons plus loin : notre service de création sur mesure vous permet d'obtenir une fragrance unique, imaginée selon vos goûts et vos envies.",
+    "points": [
+      "100% originaux — toutes nos fragrances sont certifiées authentiques",
+      "Création de votre mélange unique et personnalisé",
+      "Conseils d'expert en parfumerie",
+      "Retrait en magasin & commande WhatsApp"
+    ]
+  },
+  "promo": {
+    "title": "Offre Spéciale",
+    "subtitle": "Promotion du Mois — Parfums originaux à prix exceptionnels",
+    "free_shipping": "Livraison OFFERTE",
+    "authentic": "100% Authentique",
+    "sample": "Échantillon OFFERT"
+  },
+  "reviews": {
+    "title": "Témoignages",
+    "subtitle": "Ils Nous Font Confiance — Noté 4.7/5 sur Google"
+  },
+  "faq": {
+    "title": "Foire Aux Questions",
+    "subtitle": "Tout ce que vous devez savoir sur nos parfums authentiques et mélanges sur mesure",
+    "q1": "Vos parfums sont-ils authentiques ?",
+    "a1": "Oui, absolument ! Nous ne travaillons qu'avec des fournisseurs officiels et des distributeurs agréés. Tous nos parfums sont 100% originaux, authentiques et traçables.",
+    "q2": "Comment fonctionne la création sur mesure ?",
+    "a2": "Vous choisissez votre famille olfactive, l'intensité et le format. Notre expert réalise votre mélange unique à partir d'ingrédients de haute qualité.",
+    "q3": "Quels moyens de paiement acceptez-vous ?",
+    "a3": "Nous acceptons les cartes de crédit (Visa, Mastercard), les cartes de débit, les paiements sans contact et les espèces. Le retrait en magasin est gratuit.",
+    "q4": "Puis-je retourner un parfum ou un mélange ?",
+    "a4": "Pour des raisons d'hygiène, les parfums ne peuvent être repris ou échangés après ouverture. Les mélanges sur mesure sont créés spécialement pour vous."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "À Rocourt (Liège) — venez nous rencontrer dans notre boutique",
+    "address": "Adresse",
+    "phone": "Téléphone",
+    "hours": "Horaires",
+    "hours_week": "Lundi — Samedi : 10h00 — 18h00",
+    "hours_sun": "Dimanche : Fermé",
+    "facebook": "Facebook",
+    "form_title": "Contact rapide",
+    "form_name": "Nom",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_send": "Envoyer",
+    "newsletter_title": "Newsletter Essentielle",
+    "newsletter_placeholder": "Votre email",
+    "newsletter_cta": "S'abonner",
+    "newsletter_consent": "En vous inscrivant, vous acceptez notre politique de confidentialité."
+  },
+  "footer": {
+    "description": "Parfumerie de luxe & Création sur Mesure à Rocourt (Liège). Parfums 100% originaux et mélanges uniques.",
+    "services_title": "Services",
+    "hours_title": "Horaires",
+    "follow_title": "Suivez-Nous",
+    "copyright": "© 2026 L'Essentiel — Parfumerie & Création sur Mesure."
+  },
+  "cart": {
+    "title": "Mon Panier",
+    "empty": "Votre panier est vide",
+    "total": "Total",
+    "checkout": "Commander par WhatsApp",
+    "or_call": "Ou appelez le 04 226 71 37"
+  },
+  "favorites": {
+    "title": "Mes Favoris",
+    "empty": "Votre liste de favoris est vide"
+  },
+  "search": {
+    "placeholder": "Rechercher par nom ou marque",
+    "hint": "Commencez à taper pour chercher dans notre sélection.",
+    "no_results": "Aucun résultat pour \"{query}\"",
+    "results_for": "Résultats pour \"{query}\""
+  },
+  "chat": {
+    "title": "Assistant L'Essentiel",
+    "greeting": "👋 Bonjour ! Je suis l'assistant L'Essentiel. Comment puis-je vous aider ?",
+    "placeholder": "Écrivez votre message...",
+    "quick1": "Horaires & adresse",
+    "quick2": "Créer un parfum",
+    "quick3": "Conseil personnalisé",
+    "quick4": "Commander par WhatsApp"
+  },
+  "cookie": {
+    "text": "Nous utilisons des cookies pour améliorer votre expérience. En continuant, vous acceptez notre politique de confidentialité.",
+    "accept_all": "Tout accepter",
+    "settings": "Paramétrer",
+    "reject": "Refuser",
+    "modal_title": "Paramètres des cookies",
+    "essential": "Essentiels",
+    "essential_desc": "Nécessaires au fonctionnement du site",
+    "stats": "Statistiques",
+    "stats_desc": "Analytics et amélioration du site",
+    "marketing": "Publicité",
+    "marketing_desc": "Cookies marketing et réseaux sociaux",
+    "save": "Enregistrer"
+  },
+  "common": {
+    "search": "Rechercher",
+    "favorites": "Favoris",
+    "cart": "Panier",
+    "menu": "Menu",
+    "close": "Fermer",
+    "back_to_top": "Retour en haut",
+    "skip_link": "Aller au contenu principal"
+  }
+}
